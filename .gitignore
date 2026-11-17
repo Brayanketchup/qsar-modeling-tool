@@ -8,3 +8,6 @@ env/
 *.csv
 *.xlsx
 *.xls
+
+# Synthetic sample data is part of the repo
+!examples/*.csv
